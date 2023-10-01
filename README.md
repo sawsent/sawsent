@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sawsent, 20yo, dropped out of comp science degree to go work in sales and develop interpersonal skills.
+- 👀 I’m interested in doing some coding projects on the side, currently working on a pygame game for my gf.
+- 🌱 I’m currently learning python and some interesting libraries.
