@@ -38,15 +38,16 @@ Tomcat, RESTful services, Agile methodologies,
 [![frontend](https://skillicons.dev/icons?i=react,js,html,css)](#)
 
 #### Description: 
-A web application designed to help users manage their personal finances more effectively. I want it to eventually incorporate AI to analyze spending patterns, categorize expenses, and provide personalized budgeting advice. The app aims to automate financial insights, helping users make smarter financial decisions and identify opportunities for savings.
+A web application designed to help users manage their personal finances more effectively. <br>
+I want it to eventually incorporate AI to analyze spending patterns, categorize expenses, and provide personalized budgeting advice. <br>
+The app aims to automate financial insights, helping users make smarter financial decisions and identify opportunities for savings.
 
 #### Goals:
-- **Deepen React Skills:** As a React beginner, my primary focus is to develop proficient frontend development skills, building on my foundational knowledge to create responsive, user-friendly interfaces.
-- **Leverage Java Expertise:** Utilize my well-established Java skills to ensure the backend is robust and efficient, integrating seamlessly with advanced AI features for data analysis.
-- **Explore AI Opportunities:** Experiment with Python and Flask to implement AI-driven modules that predict and advise on financial decisions based on user data and behavior patterns.
-- **Full-Stack Integration:** Gain comprehensive experience by connecting a sophisticated React frontend with a powerful Java-based backend, learning to handle full-stack development challenges effectively.
-- **Master Security Practices:** Focus on learning and implementing advanced authentication and security protocols to safeguard user data. Aim to integrate secure authentication mechanisms, and adopt security best practices to protect the application from common vulnerabilities like SQL injection.
-
+- **Deepen React Skills:** Enhance front-end development with React to create responsive interfaces.
+- **Leverage Java Expertise:** Use Java to build a strong and efficient backend with AI integrations.
+- **Explore AI Opportunities:** Implement AI with Python and Flask for financial insights.
+- **Full-Stack Integration:** Connect React front-end with Java backend for a cohesive full-stack experience.
+- **Master Security Practices:** Learn and apply security protocols to protect user data and prevent vulnerabilities.
 
 #### Links:
 <p>
