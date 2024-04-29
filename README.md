@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <a href="mailto:vicenteppfigueiredo@gmail.com"><img src="resources/icons/mail.png" alt="LinkedIn"></a>
+  <a href="mailto:vicenteppfigueiredo@gmail.com" target="_blank"><img src="resources/icons/mail.png" alt="LinkedIn"></a>
   <a href="https://www.linkedin.com/in/vicentefigueiredo"><img src="resources/icons/linkedin.png" alt="LinkedIn"></a>
   <a href="https://www.youtube.com/@sawsent"><img src="resources/icons/yt.png" alt="YouTube"></a>
   <a href="https://www.twitch.tv/sawsent"><img src="resources/icons/twitch.png" alt="Twitch"></a>
