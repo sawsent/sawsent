@@ -53,7 +53,8 @@ Tomcat, RESTful services, Agile methodologies,
       "start": "may23",
       "end": "dec23",
       "responsibilities": "Attracting and generating interest in potential customers, while being the first point of contact. \
-                          Achieved 125% of the sales objective by adapting to customers, testing different strategies and approaches, \
+                          Achieved 125% of the sales objective by adapting to customers, \
+                          testing different strategies and approaches, \
                           and seeking our Team Leader's mentorship."
     }
   ],
