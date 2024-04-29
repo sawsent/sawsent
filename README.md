@@ -32,8 +32,25 @@ Tomcat, RESTful services, Agile methodologies,
 ## Current Projects
 
 ### Valorant Tracker Single Page Application
-**Description:** A web application designed to help Valorant players track their game stats, analyze performance trends, and compare with other players. <br> <br>
-**Goals:** Through this project, I aim to deepen my understanding of real-time data handling and enhance my skills in creating responsive single-page applications using JavaScript.
+#### Stack:
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css"> 
+  <img src="resources/icons/restapi.png">
+</p>
+
+#### Description: 
+A web application designed to help Valorant players track their game stats, analyze performance trends, and compare with other players. Also has the feature to see scheduled esports events, games and their score. <br>
+Also planning on adding a way to visualize current competitive maps and agents using the official RIOT games valorant API.
+
+#### Goals:
+Through this project, I aim to deepen my understanding of real-time data handling and enhance my skills in creating responsive single-page applications using JavaScript. <br>
+Moreover, I want to get better at working with external APIs and become more efficient at figuring them out through the documentation. <br>
+I also want to deepen my understanding and intuition for HTML and CSS.
+
+#### Links:
+<p>
+  <a href="https://www.github.com/sawsent/valoranttracker"><img src="https://skillicons.dev/icons?i=github"> </a>
+</p>
 
 ---
 
