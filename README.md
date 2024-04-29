@@ -31,6 +31,15 @@ Tomcat, RESTful services, Agile methodologies,
 
 ## Current Projects
 
+### Valorant Tracker Single Page Application
+**Description:** A web application designed to help Valorant players track their game stats, analyze performance trends, and compare with other players. <br> <br>
+**Goals:** Through this project, I aim to deepen my understanding of real-time data handling and enhance my skills in creating responsive single-page applications using JavaScript.
+
+---
+
+### Personal Expense Management Fullstack App
+**Description:** This app helps users manage their personal finances by tracking expenses, categorizing them, and providing insightful spending analytics. <br> <br>
+**Goals:** I am focusing on integrating secure authentication and learning more about state management in full-stack environments. I hope to master complex SQL queries and improve my backend development skills with Spring Boot.
 
 ## Current Goals
 
