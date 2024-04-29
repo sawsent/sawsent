@@ -1,7 +1,17 @@
-# Vicente Figueiredo
+## Junior Full Stack Developer | Music Enthusiast | Tech Innovator | Game Enjoyer
 
-## Junior Full Stack Developer | Music Enthusiast | Tech Innovator
-<a href="https://www.twitch.tv/sawsent"><img src="twitch.png" style="width: 50px;"></a>
+<img src="resources/banner.png">
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vicentefigueiredo"><img src="resources/icons/linkedin.png" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@sawsent"><img src="resources/icons/yt.png" alt="YouTube"></a>
+  <a href="https://www.twitch.tv/sawsent"><img src="resources/icons/twitch.png" alt="Twitch"></a>
+  <a href="https://medium.com/@vicenteppfigueiredo"><img src="resources/icons/medium.png" alt="Medium" style="background-color:#FFFFFF;"></a>
+  <a href="https://dev.to/sawsent"><img src="resources/icons/devto.png" alt="Dev.to"></a>
+</p>
+
 ---
 
 📍 **Location:** Porto, Portugal  
