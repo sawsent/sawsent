@@ -24,9 +24,8 @@ I'm a learning junkie that thrives in challenging environments. I love to adapt 
 ### Languages 
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,cpp)](#)
 ### Frameworks and tools
-[![My Skills](https://skillicons.dev/icons?i=flask,maven,spring,hibernate,jquery,bootstrap,react)](#) <img src="resources/icons/tomcat.png"> <img src="resources/icons/restapi.png">
+[![My Skills](https://skillicons.dev/icons?i=flask,maven,spring,hibernate,jquery,bootstrap,react,obsidian)](#) <img src="resources/icons/tomcat.png"> <img src="resources/icons/restapi.png">
 ### IDEs I like
-
 [![neovim](https://skillicons.dev/icons?i=neovim)](https://www.github.com/sawsent/nvim)
 [![intellijIDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
 [![clion](https://skillicons.dev/icons?i=clion)](https://www.jetbrains.com/clion/)
