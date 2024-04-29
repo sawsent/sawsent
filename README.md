@@ -31,11 +31,37 @@ Tomcat, RESTful services, Agile methodologies,
 
 ## Current Projects
 
+### Fullstack Expense Management App
+#### Stack:
+
+[![backend](https://skillicons.dev/icons?i=java,spring,hibernate,python,flask)](#) <br>
+[![frontend](https://skillicons.dev/icons?i=react,js,html,css)](#)
+
+#### Description: 
+A web application designed to help users manage their personal finances more effectively. I want it to eventually incorporate AI to analyze spending patterns, categorize expenses, and provide personalized budgeting advice. The app aims to automate financial insights, helping users make smarter financial decisions and identify opportunities for savings.
+
+#### Goals:
+- **Deepen React Skills:** As a React beginner, my primary focus is to develop proficient frontend development skills, building on my foundational knowledge to create responsive, user-friendly interfaces.
+- **Leverage Java Expertise:** Utilize my well-established Java skills to ensure the backend is robust and efficient, integrating seamlessly with advanced AI features for data analysis.
+- **Explore AI Opportunities:** Experiment with Python and Flask to implement AI-driven modules that predict and advise on financial decisions based on user data and behavior patterns.
+- **Full-Stack Integration:** Gain comprehensive experience by connecting a sophisticated React frontend with a powerful Java-based backend, learning to handle full-stack development challenges effectively.
+- **Master Security Practices:** Focus on learning and implementing advanced authentication and security protocols to safeguard user data. Aim to integrate secure authentication mechanisms, and adopt security best practices to protect the application from common vulnerabilities like SQL injection.
+
+
+#### Links:
+<p>
+  <a href="https://www.github.com/sawsent/expensemanagement"><img src="https://skillicons.dev/icons?i=github"> </a>
+</p>
+
+#### Notes:
+This is a really ambitious project that I'll work on as I expand my knowledge and put my skills to the test.
+
+---
+
 ### Valorant Tracker Single Page Application
 #### Stack:
 <p>
   <img src="https://skillicons.dev/icons?i=js,html,css"> 
-  <img src="resources/icons/restapi.png">
 </p>
 
 #### Description: 
@@ -52,14 +78,7 @@ I also want to deepen my understanding and intuition for HTML and CSS.
   <a href="https://www.github.com/sawsent/valoranttracker"><img src="https://skillicons.dev/icons?i=github"> </a>
 </p>
 
----
-
-### Personal Expense Management Fullstack App
-**Description:** This app helps users manage their personal finances by tracking expenses, categorizing them, and providing insightful spending analytics. <br> <br>
-**Goals:** I am focusing on integrating secure authentication and learning more about state management in full-stack environments. I hope to master complex SQL queries and improve my backend development skills with Spring Boot.
-
 ## Current Goals
-
 
 
 ## Background
