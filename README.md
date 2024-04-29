@@ -66,22 +66,27 @@ This is a really ambitious project that I'll work on as I expand my knowledge an
 ### Valorant Tracker Single Page Application
 #### Stack:
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css">
+  <img src="https://skillicons.dev/icons?i=js,html,css,jquery">
   <img src="resources/icons/restapi.png">
 </p>
 
 #### Description: 
-A web application designed to help Valorant players track their game stats, analyze performance trends, and compare with other players. Also has the feature to see scheduled esports events, games and their score. <br>
+A web application designed to help Valorant players track their game stats, analyze performance trends, and compare with other players. <br>
+Also has the feature to see scheduled esports events, games and their score. <br>
+Currently uses [HenrikDev's Valorant API](https://github.com/Henrik-3/unofficial-valorant-api) to fetch data.
 Also planning on adding a way to visualize current competitive maps and agents using the official RIOT games valorant API.
 
 #### Goals:
-Through this project, I aim to deepen my understanding of real-time data handling and enhance my skills in creating responsive single-page applications using JavaScript. <br>
-Moreover, I want to get better at working with external APIs and become more efficient at figuring them out through the documentation. <br>
-I also want to deepen my understanding and intuition for HTML and CSS.
+- **Enhance Real-Time Data Handling:** Deepen my understanding of real-time data management to improve responsiveness in single-page applications using JavaScript and Jquery.
+- **Improve API Integration Skills:** Become more proficient at working with external APIs and learning from documentation to enhance application functionality.
+- **Refine HTML and CSS Mastery:** Further develop my understanding and skills in HTML and CSS to create more intuitive and visually appealing user interfaces.
+
 
 #### Links:
 <p>
-  <a href="https://www.github.com/sawsent/valoranttracker"><img src="https://skillicons.dev/icons?i=github"> </a>
+  <a href="https://www.github.com/sawsent/valoranttracker"><img src="https://skillicons.dev/icons?i=github" alt="Github Repository"> </a>
+  <a href="https://valorant-api.com/"><img src="resources/icons/valoapi.png" alt="official valorant api"> </a>
+  <a href="https://app.swaggerhub.com/apis/Henrik-3/HenrikDev-API/3.0.0"><img src="resources/icons/swaggerhub.png" alt="HenrikDev valorant API on swaggerhub"> </a>
 </p>
 
 ## Current Goals
