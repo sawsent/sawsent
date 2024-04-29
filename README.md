@@ -6,12 +6,12 @@
 
 <p align="center">
   <a href="mailto:vicenteppfigueiredo@gmail.com" target="_blank"><img src="resources/icons/mail.png" alt="LinkedIn"></a>
-  <a href="https://www.linkedin.com/in/vicentefigueiredo"><img src="resources/icons/linkedin.png" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/@sawsent"><img src="resources/icons/yt.png" alt="YouTube"></a>
-  <a href="https://www.twitch.tv/sawsent"><img src="resources/icons/twitch.png" alt="Twitch"></a>
-  <a href="https://medium.com/@vicenteppfigueiredo"><img src="resources/icons/medium.png" alt="Medium" style="background-color:#FFFFFF;"></a>
-  <a href="https://dev.to/sawsent"><img src="resources/icons/devto.png" alt="Dev.to"></a>
-  <a href="https://www.google.com/maps/place/Porto/@41.1622468,-8.6631531,13z/data=!3m1!4b1!4m6!3m5!1s0xd2465abc4e153c1:0xa648d95640b114bc!8m2!3d41.1579438!4d-8.6291053!16zL20vMHBtbjc?entry=ttu"><img src="resources/icons/map.png" alt="Location"></a>
+  <a href="https://www.linkedin.com/in/vicentefigueiredo" target="_blank"><img src="resources/icons/linkedin.png" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@sawsent" target="_blank"><img src="resources/icons/yt.png" alt="YouTube"></a>
+  <a href="https://www.twitch.tv/sawsent" target="_blank"><img src="resources/icons/twitch.png" alt="Twitch"></a>
+  <a href="https://medium.com/@vicenteppfigueiredo" target="_blank"><img src="resources/icons/medium.png" alt="Medium" style="background-color:#FFFFFF;"></a>
+  <a href="https://dev.to/sawsent" target="_blank"><img src="resources/icons/devto.png" alt="Dev.to"></a>
+  <a href="https://www.google.com/maps/place/Porto/@41.1622468,-8.6631531,13z/data=!3m1!4b1!4m6!3m5!1s0xd2465abc4e153c1:0xa648d95640b114bc!8m2!3d41.1579438!4d-8.6291053!16zL20vMHBtbjc?entry=ttu" target="_blank"><img src="resources/icons/map.png" alt="Location"></a>
 </p>
 
 ---
@@ -55,7 +55,7 @@ The app aims to automate financial insights, helping users make smarter financia
 
 #### Links:
 <p>
-  <a href="https://www.github.com/sawsent/expensemanagement"><img src="https://skillicons.dev/icons?i=github"> </a>
+  <a href="https://www.github.com/sawsent/expensemanagement" target="_blank"><img src="https://skillicons.dev/icons?i=github"> </a>
 </p>
 
 #### Notes:
@@ -84,9 +84,9 @@ Also planning on adding a way to visualize current competitive maps and agents u
 
 #### Links:
 <p>
-  <a href="https://www.github.com/sawsent/valoranttracker"><img src="https://skillicons.dev/icons?i=github" alt="Github Repository"> </a>
-  <a href="https://valorant-api.com/"><img src="resources/icons/valoapi.png" alt="official valorant api"> </a>
-  <a href="https://app.swaggerhub.com/apis/Henrik-3/HenrikDev-API/3.0.0"><img src="resources/icons/swaggerhub.png" alt="HenrikDev valorant API on swaggerhub"> </a>
+  <a href="https://www.github.com/sawsent/valoranttracker" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="Github Repository"> </a>
+  <a href="https://valorant-api.com/" target="_blank"><img src="resources/icons/valoapi.png" alt="official valorant api"> </a>
+  <a href="https://app.swaggerhub.com/apis/Henrik-3/HenrikDev-API/3.0.0" target="_blank"><img src="resources/icons/swaggerhub.png" alt="HenrikDev valorant API on swaggerhub"> </a>
 </p>
 
 ## Current Goals
@@ -94,15 +94,15 @@ Also planning on adding a way to visualize current competitive maps and agents u
 ### Consistent Content Creation
 **Aim:** Stream consistently on Twitch and regularly post engaging videos on YouTube to build a dedicated audience and enhance my digital presence. Also, please check it out and give me a follow, I greatly appreciate it!
 <p>
-  <a href="https://www.youtube.com/@sawsent"><img src="resources/icons/yt.png" alt="YouTube"></a>
-  <a href="https://www.twitch.tv/sawsent"><img src="resources/icons/twitch.png" alt="Twitch"></a>
+  <a href="https://www.youtube.com/@sawsent" target="_blank"><img src="resources/icons/yt.png" alt="YouTube"></a>
+  <a href="https://www.twitch.tv/sawsent" target="_blank"><img src="resources/icons/twitch.png" alt="Twitch"></a>
 </p>
 
 ### Regular Writing
 **Aim:** Commit to writing and publishing at least one article every month on platforms like Dev.to or Medium, focusing on topics related to my tech journey and learning experiences.
 <p>
-  <a href="https://medium.com/@vicenteppfigueiredo"><img src="resources/icons/medium.png" alt="Medium" style="background-color:#FFFFFF;"></a>
-  <a href="https://dev.to/sawsent"><img src="resources/icons/devto.png" alt="Dev.to"></a>
+  <a href="https://medium.com/@vicenteppfigueiredo" target="_blank"><img src="resources/icons/medium.png" alt="Medium" style="background-color:#FFFFFF;"></a>
+  <a href="https://dev.to/sawsent" target="_blank"><img src="resources/icons/devto.png" alt="Dev.to"></a>
 </p>
 
 ### Expand Web Development Knowledge
