@@ -1,7 +1,7 @@
 # Vicente Figueiredo
 
 ## Junior Full Stack Developer | Music Enthusiast | Tech Innovator
-
+<a href="https://www.twitch.tv/sawsent"><img src="twitch.png" style="width: 50px;"></a>
 ---
 
 📍 **Location:** Porto, Portugal  
@@ -23,9 +23,10 @@ Tomcat, RESTful services, Agile methodologies,
 
 ### Current Projects
 
-- **[Draw With Fourier](https://github.com/sawsent/draw-with-Fourier)** - A fascinating project that uses Fourier series to convert drawings into continuous mathematical functions.
-- **[Terminal Uno](https://github.com/sawsent/Uno)** - A networked Uno game implemented in Java showcasing OOP and network programming.
-- **[Sir Joca](https://github.com/sawsent/sirJoca)** - A platformer game created during a game jam, demonstrating my skills in game development and design.
+
+### Current Goals
+
+
 
 ### Background
 ```yaml
@@ -75,7 +76,6 @@ Tomcat, RESTful services, Agile methodologies,
 ```
 ## My GitHub Stats
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=sawsent&show_icons=true&theme=transparent)
-
 
 ---
 
