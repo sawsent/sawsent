@@ -24,8 +24,8 @@ I’m a learning junkie that thrives in challenging environments. I love to adap
 
 ### Languages 
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,cpp)](https://www.twitch.tv/sawsent)
-### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=flask,maven,spring,hibernate,jquery,bootstrap)](https://www.twitch.tv/sawsent)
+### Frameworks and tools
+[![My Skills](https://skillicons.dev/icons?i=flask,maven,spring,hibernate,jquery,bootstrap,idea,clion,vscode,visualstudio)](https://www.twitch.tv/sawsent)
 ### Other Tools 
 Tomcat, RESTful services, Agile methodologies,
 
