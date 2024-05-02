@@ -40,17 +40,8 @@ I'm a learning junkie that thrives in challenging environments. I love to adapt 
 [![backend](https://skillicons.dev/icons?i=java,spring,hibernate,python,flask)](#) <img src="resources/icons/restapi.png"> <br>
 [![frontend](https://skillicons.dev/icons?i=react,js,html,css)](#)
 
-#### Description: 
-A web application designed to help users manage their personal finances more effectively. <br>
-I want it to eventually incorporate AI to analyze spending patterns, categorize expenses, and provide personalized budgeting advice. <br>
-The app aims to automate financial insights, helping users make smarter financial decisions and identify opportunities for savings.
-
 #### Goals:
-- **Deepen React Skills:** Enhance front-end development with React to create responsive interfaces.
-- **Leverage Java Expertise:** Use Java to build a strong and efficient backend with AI integrations.
-- **Explore AI Opportunities:** Implement AI with Python and Flask for financial insights.
-- **Full-Stack Integration:** Connect React front-end with Java backend for a cohesive full-stack experience.
-- **Master Security Practices:** Learn and apply security protocols to protect user data and prevent vulnerabilities.
+Deepen React Skills, Leverage Java Expertise, Explore AI Opportunities, Full-Stack Integration, Master Security Practices
 
 #### Links:
 <p>
@@ -69,17 +60,8 @@ This is a really ambitious project that I'll work on as I expand my knowledge an
   <img src="resources/icons/restapi.png">
 </p>
 
-#### Description: 
-A web application designed to help Valorant players track their game stats, analyze performance trends, and compare with other players. <br>
-Also has the feature to see scheduled esports events, games and their score. <br>
-Currently uses [HenrikDev's Valorant API](https://github.com/Henrik-3/unofficial-valorant-api) to fetch data.
-Also planning on adding a way to visualize current competitive maps and agents using the official RIOT games valorant API.
-
 #### Goals:
-- **Enhance Real-Time Data Handling:** Deepen my understanding of real-time data management to improve responsiveness in single-page applications using JavaScript and Jquery.
-- **Improve API Integration Skills:** Become more proficient at working with external APIs and learning from documentation to enhance application functionality.
-- **Refine HTML and CSS Mastery:** Further develop my understanding and skills in HTML and CSS to create more intuitive and visually appealing user interfaces.
-
+Enhance Real-Time Data Handling, Improve API Integration Skills, Refine HTML and CSS Mastery
 
 #### Links:
 <p>
@@ -198,5 +180,13 @@ Also planning on adding a way to visualize current competitive maps and agents u
 ```
 
 ## My GitHub Stats
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=sawsent&show_icons=true&theme=transparent)
+<!-- Git status cards -->
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawsent&hide_border=true&theme=radical" width="400px">
+</p>
+
+<div align="center">
+    <img width="375px" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sawsent&theme=radical" alt="profile status"/>
+    <img width="350px" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sawsent&show_icons=true&locale=en&layout=compact&theme=radical" alt="most languages used"/>
+</div>
 
