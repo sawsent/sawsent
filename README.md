@@ -18,7 +18,8 @@
 <div align="left">
   
 ## About Me
-I'm a learning junkie that thrives in challenging environments. I love to adapt and take on new challenges. With a background in sales and my own business in animated explainers, I blend creativity with technology. A classically trained violinist and a lover of mathematics and physics, I seek to innovate and inspire. I also love gaming and was a semi-pro Valorant player.
+I'm a learning junkie that thrives in challenging environments. I love to adapt and take on new challenges. With a background in sales and my own business in animated explainers, I blend creativity with technology. A classically trained violinist and a lover of mathematics and physics, I seek to innovate and inspire. I also love gaming and was a semi-pro Valorant player. <br>
+Check out my [youtube](https://www.youtube.com/@sawsent) and [twitch](https://www.twitch.tv/sawsent), would realy appreciate it!
 
 ---
 
@@ -28,11 +29,6 @@ I'm a learning junkie that thrives in challenging environments. I love to adapt 
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,cpp)](#)
 ### Frameworks and tools
 [![My Skills](https://skillicons.dev/icons?i=flask,maven,spring,hibernate,jquery,bootstrap,react,obsidian)](#) <img src="resources/icons/tomcat.png"> <img src="resources/icons/restapi.png">
-### IDEs I like
-[![neovim](https://skillicons.dev/icons?i=neovim)](https://www.github.com/sawsent/nvim)
-[![intellijIDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
-[![clion](https://skillicons.dev/icons?i=clion)](https://www.jetbrains.com/clion/)
-[![vscode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 
 ---
 
