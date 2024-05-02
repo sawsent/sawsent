@@ -15,9 +15,12 @@
 </p>
 
 ---
-
+<div align="center">
+  
 ## About Me
 I'm a learning junkie that thrives in challenging environments. I love to adapt and take on new challenges. With a background in sales and my own business in animated explainers, I blend creativity with technology. A classically trained violinist and a lover of mathematics and physics, I seek to innovate and inspire. I also love gaming and was a semi-pro Valorant player.
+
+---
 
 ## Skills
 
@@ -31,6 +34,7 @@ I'm a learning junkie that thrives in challenging environments. I love to adapt 
 [![clion](https://skillicons.dev/icons?i=clion)](https://www.jetbrains.com/clion/)
 [![vscode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 
+---
 
 ## Current Projects
 
@@ -60,6 +64,8 @@ I'm a learning junkie that thrives in challenging environments. I love to adapt 
 </p>
 
 ---
+
+</div>
 
 ## Background
 ```yaml
