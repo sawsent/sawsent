@@ -15,7 +15,7 @@
 </p>
 
 ---
-<div align="center">
+<div align="left">
   
 ## About Me
 I'm a learning junkie that thrives in challenging environments. I love to adapt and take on new challenges. With a background in sales and my own business in animated explainers, I blend creativity with technology. A classically trained violinist and a lover of mathematics and physics, I seek to innovate and inspire. I also love gaming and was a semi-pro Valorant player.
@@ -38,29 +38,24 @@ I'm a learning junkie that thrives in challenging environments. I love to adapt 
 
 ## Current Projects
 
-### Fullstack Expense Management App
-#### Stack:
-[![backend](https://skillicons.dev/icons?i=java,spring,hibernate,python,flask,react,js,html,css)](#) <img src="resources/icons/restapi.png"> <br>
+### [Fullstack Expense Management App](https://www.github.com/sawsent/expensemanagement)
 
-#### Links:
+**Stack:**
+
 <p>
-  <a href="https://www.github.com/sawsent/expensemanagement" target="_blank"><img src="https://skillicons.dev/icons?i=github"> </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,flask,react,js,html,css">
+  <img src="resources/icons/restapi.png">
 </p>
 
 ---
 
-### Valorant Tracker Single Page Application
-#### Stack:
+### [Valorant Tracker Single Page Application](https://www.github.com/sawsent/valoranttracker)
+
+**Stack:**
+
 <p>
   <img src="https://skillicons.dev/icons?i=js,html,css,jquery">
   <img src="resources/icons/restapi.png">
-</p>
-
-#### Links:
-<p>
-  <a href="https://www.github.com/sawsent/valoranttracker" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="Github Repository"> </a>
-  <a href="https://valorant-api.com/" target="_blank"><img src="resources/icons/valoapi.png" alt="official valorant api"> </a>
-  <a href="https://app.swaggerhub.com/apis/Henrik-3/HenrikDev-API/3.0.0" target="_blank"><img src="resources/icons/swaggerhub.png" alt="HenrikDev valorant API on swaggerhub"> </a>
 </p>
 
 ---
@@ -127,7 +122,7 @@ I'm a learning junkie that thrives in challenging environments. I love to adapt 
 
 ## My GitHub Stats
 <p>
-  <img width="350px" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=sawsent&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=4" alt="most languages used"/>
+  <img width="335px" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=sawsent&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=4" alt="most languages used"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawsent&theme=radical&show_icons=true&locale=en" width="400px" height=200 align="right">
 </p>
 
