@@ -119,7 +119,7 @@ Check out my [youtube](https://www.youtube.com/@sawsent) and [twitch](https://ww
 ## My GitHub Stats
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawsent&theme=radical&show_icons=true&locale=en" width="400px" height=200 align="right">
-  <img width="335px" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=sawsent&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=4" alt="most languages used"/>
+  <img width="335px" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=sawsent&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=4&exclude_repo=Python-Learning-Tracker" alt="most languages used"/>
 </p>
 
 
