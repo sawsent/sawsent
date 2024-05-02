@@ -28,7 +28,7 @@ Check out my [youtube](https://www.youtube.com/@sawsent) and [twitch](https://ww
 ### Languages 
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,cpp)](#)
 ### Frameworks and tools
-[![My Skills](https://skillicons.dev/icons?i=flask,maven,spring,hibernate,jquery,bootstrap,react,obsidian)](#) <img src="resources/icons/tomcat.png"> <img src="resources/icons/restapi.png">
+[![My Skills](https://skillicons.dev/icons?i=flask,maven,spring,hibernate,jquery,bootstrap,vue,obsidian)](#) <img src="resources/icons/tomcat.png"> <img src="resources/icons/restapi.png">
 
 ---
 
@@ -39,7 +39,7 @@ Check out my [youtube](https://www.youtube.com/@sawsent) and [twitch](https://ww
 **Stack:**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,flask,react,js,html,css">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,flask,vue,js,html,css">
   <img src="resources/icons/restapi.png">
 </p>
 
