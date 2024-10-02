@@ -1,4 +1,4 @@
-## Junior Full Stack Developer | Music Enthusiast | Tech Innovator | Game Enjoyer
+## Junior Software Engineer | Music Enthusiast | Tech Innovator | Game Enjoyer
 
 <img src="resources/banner.png">
 
