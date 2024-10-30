@@ -35,13 +35,11 @@ Check out my [youtube](https://www.youtube.com/@sawsent) and [twitch](https://ww
 
 ## Currently working on
 
-### [Nelson-CLI: AI in your terminal](https://www.github.com/sawsent/nelson-cli)
+### [Nelson: AI as a tool in your terminal](https://www.github.com/sawsent/nelson)
+Nelson is a Unix Command Line Tool written in Bash that allows for AI suggestions, error explanations, and more, all straight from the terminal.
 
-**Stack:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=bash">
-</p>
+### [Mikhail: Speech processing and manipulation tool](https://www.github.com/sawsent/mikhail)
+Mikhail processes audio with speech, allowing you to isolate words from an audio file and build new sentences based on existing voicelines. It also allows you to change cadence of any spoken sentence.
 
 </div>
 
