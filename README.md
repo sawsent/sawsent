@@ -71,11 +71,11 @@ Mikhail processes audio with speech, allowing you to isolate words from an audio
           "FVR",
           "HUSH",
           "HUA"
-        }
+        ],
       "start": "feb22",
       "end": "dec22",
     }
-  ],
+  ]
 }
 ```
 
