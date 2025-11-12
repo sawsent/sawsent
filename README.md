@@ -47,6 +47,12 @@ Mikhail processes audio with speech, allowing you to isolate words from an audio
 ```json
 {
   "experience": [
+    {
+      "role": "Associate Software Engineer",
+      "company": "Blip.pt",
+      "start": "jul25",
+      "end": null
+    },
     { 
       "role": "Software Engineering Intern",
       "company": "Blip.pt | BETa program 2024",
