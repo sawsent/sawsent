@@ -1,91 +1,76 @@
-## Junior Software Engineer | Music Enthusiast | Tech Innovator | Game Enjoyer
+# Vicente 'sawsent' Figueiredo
+### Software Engineer • Builder • Musician • Gamer • Neovim enjoyer
 
-<img src="resources/banner.png">
-
----
+<img src="resources/banner.png" alt="banner"/>
 
 <p align="center">
-  <a href="mailto:vicenteppfigueiredo@gmail.com" target="_blank"><img src="resources/icons/mail.png" alt="LinkedIn"></a>
-  <a href="https://www.linkedin.com/in/vicentefigueiredo" target="_blank"><img src="resources/icons/linkedin.png" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/@sawsent" target="_blank"><img src="resources/icons/yt.png" alt="YouTube"></a>
-  <a href="https://www.twitch.tv/sawsent" target="_blank"><img src="resources/icons/twitch.png" alt="Twitch"></a>
-  <a href="https://medium.com/@vicenteppfigueiredo" target="_blank"><img src="resources/icons/medium.png" alt="Medium" style="background-color:#FFFFFF;"></a>
-  <a href="https://dev.to/sawsent" target="_blank"><img src="resources/icons/devto.png" alt="Dev.to"></a>
-  <a href="https://www.google.com/maps/place/Porto/@41.1622468,-8.6631531,13z/data=!3m1!4b1!4m6!3m5!1s0xd2465abc4e153c1:0xa648d95640b114bc!8m2!3d41.1579438!4d-8.6291053!16zL20vMHBtbjc?entry=ttu" target="_blank"><img src="resources/icons/map.png" alt="Location"></a>
+  <a href="mailto:vicenteppfigueiredo@gmail.com"><img src="resources/icons/mail.png" alt="Mail"></a>
+  <a href="https://www.linkedin.com/in/vicentefigueiredo"><img src="resources/icons/linkedin.png" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@sawsent"><img src="resources/icons/yt.png" alt="YouTube"></a>
+  <a href="https://www.twitch.tv/sawsent"><img src="resources/icons/twitch.png" alt="Twitch"></a>
+  <a href="https://medium.com/@vicenteppfigueiredo"><img src="resources/icons/medium.png" alt="Medium" style="background-color:#FFFFFF;"></a>
+  <a href="https://dev.to/sawsent"><img src="resources/icons/devto.png" alt="Dev.to"></a>
 </p>
 
 ---
-<div align="left">
-  
+
 ## About Me
-I'm a learning junkie that thrives in challenging environments. I love to adapt and take on new challenges. With a background in sales and my own business in animated explainers, I blend creativity with technology. A classically trained violinist and a lover of mathematics and physics, I seek to innovate and inspire. I also love gaming and was a semi-pro Valorant player. 
 
-Check out my [youtube](https://www.youtube.com/@sawsent) and [twitch](https://www.twitch.tv/sawsent), would realy appreciate it!
+I'm a software engineer who loves **building useful things and learning fast**.
+
+I come from a mix of tech, business, and creativity:
+
+- Associate Software Engineer @ Blip  
+- Founder of an animated explainers startup  
+- Classically trained violinist  
+- Former semi-pro Valorant player  
+
+Math, music, gaming, and code all scratch the same itch for me — solving problems and creating cool stuff.
+
+Check out my streams & videos if you like dev + gaming content 👀
 
 ---
 
-## Skills
-
-### Languages 
-[![My Skills](https://skillicons.dev/icons?i=scala,py,java,js,html,css)](#)
-### Frameworks and tools
-[![My Skills](https://skillicons.dev/icons?i=kafka,maven,spring,hibernate,jquery,bootstrap,vue,obsidian)](#) <img src="resources/icons/tomcat.png"> <img src="resources/icons/restapi.png">
+## Stack
+[![Skills](https://skillicons.dev/icons?i=scala,py,java,js,html,css)](#)
 
 ---
 
-## Currently working on
+## Featured Project
 
-### [Nelson: AI as a tool in your terminal](https://www.github.com/sawsent/nelson)
-Nelson is a Unix Command Line Tool written in Bash that allows for AI suggestions, error explanations, and more, all straight from the terminal.
+### [Nelson — AI in your terminal](https://github.com/sawsent/nelson)
 
-</div>
+A Unix CLI tool written in rust that brings AI directly into your workflow.
 
-## Background
+
+---
+
+## Experience
+
 ```json
 {
-  "experience": [
-    {
-      "role": "Associate Software Engineer",
-      "company": "Blip.pt",
-      "start": "jul25",
-      "end": null
-    },
-    { 
-      "role": "Software Engineering Intern",
-      "company": "Blip.pt | BETa program 2024",
-      "start": "sep24",
-      "end": "jul25",
-    },
-    {
-      "role": "Founder & CEO",
-      "company": "Simplify Clarity",
-      "start": "jan23",
-      "end": "jan24",
-    },
-    {
-      "role": "Sales Representative",
-      "company": "ManPower - Endesa",
-      "start": "may23",
-      "end": "dec23",
-    },
-    {
-      "role": "Professional Valorant Player",
-      "company": [
-          "FVR",
-          "HUSH",
-          "HUA"
-        ],
-      "start": "feb22",
-      "end": "dec22",
-    }
+  "current": {
+    "role": "Associate Software Engineer",
+    "company": "Blip.pt",
+    "since": "2025"
+  },
+  "previous": [
+    "Software Engineering Intern @ Blip.pt (BETa 2024–2025)",
+    "Founder & CEO @ Simplify Clarity",
+    "Sales Representative @ Endesa",
+    "Semi-Pro Valorant Player (FVR, HUSH, HUA)"
   ]
 }
 ```
 
-## My GitHub Stats
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawsent&theme=radical&show_icons=true&locale=en" width="400px" height=200 align="right">
-  <img width="335px" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=sawsent&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=4&exclude_repo=Python-Learning-Tracker" alt="most languages used"/>
-</p>
+---
 
+## Outside of Coding
 
+You’ll probably find me:
+- jamming to some Bach  
+- grinding ranked  
+- building side projects at 2am
+- playing Padel
+
+If that sounds like your vibe, let’s connect 🤝
