@@ -1,7 +1,7 @@
 # Vicente 'sawsent' Figueiredo
 ### Software Engineer • Builder • Musician • Gamer • Neovim enjoyer
 
-<img src="resources/banner.png" alt="banner"/>
+<img src="resources/icons/banner.png" alt="banner"/>
 
 <p align="center">
   <a href="mailto:vicenteppfigueiredo@gmail.com"><img src="resources/icons/mail.png" alt="Mail"></a>
